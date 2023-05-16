@@ -20,8 +20,8 @@
 
 Esse projeto foi desenvolvido com as seguintes sistemas:
 
-- Vscode
-- Editor
+- 📋Editor de Texto 👉 Vscode
+- 📳 Um navegador de internet
 
 
 ## 💻 Projeto
