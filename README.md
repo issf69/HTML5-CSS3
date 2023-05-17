@@ -20,7 +20,7 @@ HTML5 e CSS3
   
  ## 💻 Sistemas
 
-Esse projeto foi desenvolvido com as seguintes sistemas:
+Esse projeto foi desenvolvido com os seguintes sistemas:
 
 - 📋Editor de Texto 👉 Vscode
 - 📳 Um navegador de internet
